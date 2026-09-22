@@ -1,4 +1,4 @@
-# WeBox Telegram Crypto Gateway for WooCommerce
+#Crypto Gateway for WooCommerce
 
 A WooCommerce payment gateway for accepting cryptocurrency payments through **Telegram Crypto Pay**.
 
@@ -26,7 +26,6 @@ The plugin allows WooCommerce stores to create Crypto Pay invoices in USD and re
 
 The payment flow is designed to be simple:
 
-```text
 Customer
    ↓
 WooCommerce Checkout
@@ -44,3 +43,9 @@ Payment
 Crypto Pay Webhook
    ↓
 WooCommerce Order Update
+
+## About WeBoxAcademy
+
+Developed by **WeBoxAcademy**, a digital marketplace for WordPress products, plugins, software resources, and online courses.
+
+🌐 [Visit WeBoxacademy](https://weboxacademy.com)
