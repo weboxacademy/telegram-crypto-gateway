@@ -23,9 +23,6 @@ The plugin allows WooCommerce stores to create Crypto Pay invoices in USD and re
 - 🔒 API credentials are stored in WooCommerce gateway settings
 
 ## How It Works
-
-The payment flow is designed to be simple:
-
 Customer
    ↓
 WooCommerce Checkout
@@ -49,3 +46,13 @@ WooCommerce Order Update
 Developed by **WeBoxAcademy**, a digital marketplace for WordPress products, plugins, software resources, and online courses.
 
 🌐 [Visit WeBoxacademy](https://weboxacademy.com)
+## Installation
+
+1. Download or clone this repository.
+2. Upload the `webox-telegram-crypto-gateway` folder to:
+   `/wp-content/plugins/`
+3. Activate the plugin from WordPress Admin.
+4. Configure the gateway from:
+   `WooCommerce → Settings → Payments → Pay with Telegram Crypto`
+
+For more WordPress and WooCommerce resources, visit [WeBoxAcademy](https://weboxacademy.com).
